@@ -1,0 +1,5 @@
+The zip folder includes the required database setup scripts, ERR diagram, data model, and the executable program. The submission is made by Joseph Cassidy with student number 202206725.
+
+The folder structure for the project contains the readme text file an ERR Diagram as a pdf the Database setup and testing data script as well as the model and model backup There is an executable folder which contains all of the files needed for the executable whois. In addition to this there is the whois folder which contains all of the visual studio code
+
+The database is set-up to be in third normal form which relationships appropriatley established for the foriegn keys, you can see this in the ERRDiagram.pdf@ for hte Entity-Relationship diagram of the database. The Schema includes fields such as Login ID, User ID, Surname­, Forenames, Title, Position, Phone­, Email, and Location.
